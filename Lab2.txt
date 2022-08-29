@@ -39,4 +39,4 @@ Modify and update every step you took to achieve the lab, that was not captured 
 On the terminal run command git add Lab2.txt
 Git commit -m “launch template demo”
 Push to your personal repo.
-
+nothing to update today
