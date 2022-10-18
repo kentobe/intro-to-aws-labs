@@ -12,7 +12,7 @@ Create a Security Group with name “PublicSG” and give it any description you
 Select your default VPC
 With the following  Inbound rule
 Type      Source
-SSH         My IP
+SSH         IPv4 Anywhere
 HTTP       Anywhere IPv4
 HTTP       Anywhere IPv6
 
